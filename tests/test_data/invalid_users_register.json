@@ -1,0 +1,27 @@
+[
+  {
+    "email": "example1@gmail.com",
+    "password": "12345",
+    "age": 0
+  },
+  {
+    "email": "invalid_emailgmail.com",
+    "password": "12345",
+    "age": 18
+  },
+  {
+    "email": "invalid_password@gmail.com",
+    "password": "1234",
+    "age": 18
+  },
+  {
+    "email": "invalid_age@gmail.com",
+    "password": "12345",
+    "age": -5
+  },
+  {
+    "email": "",
+    "password": "",
+    "age": ""
+  }
+]

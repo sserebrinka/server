@@ -1,0 +1,11 @@
+[
+  {
+    "email": "user_not_exist@gmail.com"
+  },
+  {
+    "email": "invalid_usergmailcom"
+  },
+  {
+    "email": ""
+  }
+]
